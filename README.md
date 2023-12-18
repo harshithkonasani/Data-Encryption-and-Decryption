@@ -44,7 +44,7 @@ The Ecnrypted data is :   khoor
 The decrypted data is :    hello
 
 # Any data encryption format 
-# key is unknown to human - random system generated -- Highly secure
+#key is unknown to human - random system generated -- Highly secure
 
 import random
 import string 
@@ -55,7 +55,7 @@ key = chars.copy()
 
 random.shuffle(key)
 
-# Encrypt
+#Encrypt
 plain_text = input("Enter a plain text: ")
 cipher_text = ""
 
@@ -65,7 +65,7 @@ for letter in plain_text:
 print(f"original meaasge : {plain_text}")
 print(f"encrypt message : {cipher_text}")
 
-# Decrypt
+#Decrypt
 cipher_text = input("Enter a message to encrypt: ")
 plain_text = ""
 
