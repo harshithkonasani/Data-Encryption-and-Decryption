@@ -85,4 +85,7 @@ Enter a message to encrypt: _q66cZqpq*uciq
 encrypted message : _q66cZqpq*uciq
 original message : hello everyone 
 
+![image](https://github.com/harshithkonasani/Data-Encryption-and-Decryption/assets/94668868/7d1a490a-fafd-4cbc-bd73-1c868ccba0bf)
+
+![image](https://github.com/harshithkonasani/Data-Encryption-and-Decryption/assets/94668868/ef9c7f96-aeca-4226-a9e7-72752ad8c6bb)
 
